@@ -1,2 +1,2 @@
-import streamlit as st
-import google.generativeai as palm
+streamlit
+google-generativeai
